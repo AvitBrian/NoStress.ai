@@ -17,6 +17,7 @@ The dataset (data_stress.csv) includes the following columns:
 - hours of sleep
 - heart rate
 - Target (Stress Level)
+<br>
 Key Findings
 After extensive data preprocessing and model training:
 
