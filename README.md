@@ -33,10 +33,10 @@ Copy code
 pip install notebook
 Clone the repository:
 bash
-```git clone https://github.com/yourusername/your-repository.git```
+```git clone https://github.com/AvitBrian/NoStress.ai.git```
 Navigate to the project directory:
 bash
-```cd your-repository```
+```NoStress.ai```
 Start the Jupyter Notebook:
 ```jupyter notebook```
 In the Jupyter Notebook interface, navigate to stress_level_prediction.ipynb and open it.
