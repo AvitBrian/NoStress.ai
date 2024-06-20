@@ -6,7 +6,7 @@ Overview
 
 This project aims to help people monitor their stress levels using machine learning techniques. The model predicts stress levels based on various physiological and environmental factors. The dataset used (data_stress.csv) was obtained from Kaggle and contains relevant features for stress prediction.
 
-Dataset
+# Dataset
 The dataset (data_stress.csv) includes the following columns:
 - snoring range
 - respiration rate
@@ -23,8 +23,8 @@ After extensive data preprocessing and model training:
 
 Optimizations were applied that significantly improved the performance of the model.
 The final model achieved 100% accuracy on training and 99.21% on the test set.
-Instructions
-Running the Notebook
+# Instructions
+## Running the Notebook
 To run the Jupyter Notebook (NoStress.ipynb):
 
 Ensure you have Python 3.x installed.
